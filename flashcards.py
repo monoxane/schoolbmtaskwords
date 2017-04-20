@@ -1,3 +1,10 @@
+'''
+A flash card based study tool for VCE Unit One and Two Business Management
+Copyright Oliver Herrmann 2017
+Released under the MIT lisence, for more information go to https://github.com/monoxane/Taskwords-Flash-Cards/blob/master/LICENSE.md
+'''
+
+
 import os
 import time
 
